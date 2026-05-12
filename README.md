@@ -53,6 +53,10 @@
 | :---: | :---: | :---: |
 | ![Alipay](./docs/images/donate_alipay.png) | ![WeChat](./docs/images/donate_wechat.png) | ![Coffee](./docs/images/donate_coffee.png) |
 
+### 有偿定制/部署支持
+
+这个 fork 可提供小范围有偿安装、打包、定制和故障排查支持。请通过 [paid support 表单](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml) 描述预算、时间线和验收方式。请勿在公开 issue 中提交密码、API Key、Session Token、Cookie、私有账号数据或其他敏感信息。
+
 ## 🌟 深度功能解析 (Detailed Features)
 
 ### 1. 🎛️ 智能账号仪表盘 (Smart Dashboard)

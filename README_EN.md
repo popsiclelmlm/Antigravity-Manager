@@ -54,6 +54,10 @@ If you find this project helpful, feel free to buy me a coffee!
 | :---: | :---: | :---: |
 | ![Alipay](./docs/images/donate_alipay.png) | ![WeChat](./docs/images/donate_wechat.png) | ![Coffee](./docs/images/donate_coffee.png) |
 
+### Paid Customization / Deployment Support
+
+This fork is available for small paid installation, packaging, customization, and troubleshooting requests. Open the [paid support form](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml) with your budget, timeline, and acceptance checklist. Please do not post passwords, API keys, session tokens, cookies, private account data, or other sensitive information in public issues.
+
 ## 🌟 Detailed Feature Matrix
 
 ### 1. 🎛️ Smart Account Dashboard
