@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Paid customization / support
+    url: https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml
+    about: Request paid setup, packaging, customization, or troubleshooting help.

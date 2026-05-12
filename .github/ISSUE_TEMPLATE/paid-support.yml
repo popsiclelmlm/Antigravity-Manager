@@ -1,0 +1,60 @@
+name: Paid customization / support
+description: Request paid help for setup, customization, packaging, or Tauri/React/Rust changes.
+title: "[Paid support]: "
+labels: ["paid support"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for legitimate paid support, customization, packaging, or troubleshooting work.
+
+        Do not include passwords, API keys, session tokens, cookies, private account data, or other secrets. If sensitive details are required, share only after a paid scope and safe handoff method are agreed.
+  - type: input
+    id: budget
+    attributes:
+      label: Budget
+      description: Your expected budget or range.
+      placeholder: "Example: $20-$100"
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: When do you need this completed?
+      placeholder: "Example: within 2 days"
+    validations:
+      required: true
+  - type: dropdown
+    id: work-type
+    attributes:
+      label: Work type
+      options:
+        - Setup or deployment help
+        - Tauri / desktop packaging
+        - React UI customization
+        - Rust backend customization
+        - Bug investigation
+        - Documentation or walkthrough
+        - Other focused task
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Request details
+      description: Describe the task, expected result, OS/environment, and any public error messages.
+      placeholder: "I need help with..."
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance checklist
+      description: How should the work be verified?
+      placeholder: |
+        - App builds on macOS
+        - The requested setting appears in the UI
+        - README includes the setup steps
+    validations:
+      required: false
