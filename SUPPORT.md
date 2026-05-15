@@ -6,4 +6,4 @@ https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-sup
 
 Please do not post passwords, API keys, session tokens, cookies, private account data, or other secrets in public issues.
 
-Good paid-support requests are small, specific, and verifiable with a short checklist.
+Good paid-support requests are small, specific, and verifiable with a short checklist. Include a public contact route, budget range, timeline, operating system, expected result, and acceptance checklist.
